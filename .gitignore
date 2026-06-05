@@ -1,0 +1,8 @@
+__pycache__/
+dataset_augmented/
+snapshots/
+*.log
+.ipynb_checkpoints/
+.streamlit/
+segmented_tyre_output.png
+*.pyc
