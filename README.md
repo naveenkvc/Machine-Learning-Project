@@ -281,15 +281,33 @@ To safeguard real-world operation, AI-TREAD incorporates an automated **Deployme
 
 ---
 
-## 👨‍💻 18. Team Section
+## 👨‍💻 18. Project Team
 
-*   **Naveen Kumar** - Lead Machine Learning Developer & System Architect
-*   **Team Member 2** - Computer Vision Engineer
-*   **Team Member 3** - Full-Stack Dashboard Developer
+| Role | Name |
+| :--- | :--- |
+| 👑 Team Leader (TL) | Naveen Kumar C |
+| 👨‍💻 Team Member | H Sreenath |
+| 👨‍💻 Team Member | C Uday Kumar |
+| 👨‍💻 Team Member | Vinay Kumar CM |
 
-### 👨‍🏫 Guided By
-**Dr. Yerriswamy T**  
+---
+
+## 👨‍🏫 Project Guide
+
+Dr. Yerriswamy T  
 Department of Computer Science & Engineering  
+
+---
+
+## 🤝 Team Contribution
+
+This project was collaboratively developed by the team under the guidance of Dr. Yerriswamy T. The team worked on dataset preparation, machine learning model development, computer vision implementation, dashboard design, testing, documentation, and presentation.
+
+### Team Members
+*   👑 **Naveen Kumar C** (Team Leader)
+*   👨‍💻 **H Sreenath**
+*   👨‍💻 **C Uday Kumar**
+*   👨‍💻 **Vinay Kumar CM**
 
 ---
 
@@ -307,3 +325,19 @@ AI-TREAD integrates multiple fields of modern computer science into a cohesive a
 ## 🏁 20. Professional Conclusion
 
 AI-TREAD presents a robust, production-ready implementation of deep learning for automotive safety. By combining deep feature extractors with classical computer vision checks and an explainable framework, the system is suitable for final-year engineering evaluations and ready for conversion into commercial edge-AI inspection products.
+
+---
+
+<div align="center">
+
+### AI-TREAD © 2026
+
+**Developed By:**  
+Naveen Kumar C (TL) | H Sreenath | C Uday Kumar | Vinay Kumar CM  
+
+**Guided By:**  
+Dr. Yerriswamy T  
+
+*Department of Computer Science & Engineering*  
+
+</div>
